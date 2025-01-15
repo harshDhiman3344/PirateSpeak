@@ -1,5 +1,6 @@
 import './App.css'
 import PirateSpeakConverter from './Components/PirateSpeakConverter'
+import { Analytics } from "@vercel/analytics/react"
 function App() {
 
   return (
