@@ -1,11 +1,16 @@
+@font-face {
+    font-family: pirateText;
+    src: url(.\assets\Fonts\textPirate.woff);
+  }
 .heading {
     align-items: center;
     justify-content: center;
     display: flex;
     color: wheat;
     font-weight: bold;
-    font-size: 50px;
-    margin-top: 20px;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-bottom: 50px;
 }
 
 .container {
@@ -29,4 +34,6 @@
     color: wheat;
     resize: none; /* Disable resizing */
     box-sizing: border-box;
+    font-size: 20px;
+    font-family: pirateText;
 }
