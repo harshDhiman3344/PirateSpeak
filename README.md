@@ -13,7 +13,7 @@ Ahoy there! Welcome to **Pirate Speak Translator**, a fun project built for Hack
 - **Hosting:** Vercel  
 
 ## 🚀 Try It Out  
-[🔗 Live Demo]((https://pirate-speak-rib9.vercel.app/))
+[🔗 Live Demo](https://pirate-speak-rib9.vercel.app/)
 
 ## 🎩 Contributing
 Want to join the crew? Feel free to fork this repo and help expand the pirate dictionary! Add more piratey words and phrases to make the translator even more epic. Once done, send in a pull request—let’s make this translator the most seaworthy tool out there! 🏴‍☠️
