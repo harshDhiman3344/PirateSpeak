@@ -1,6 +1,6 @@
 @font-face {
     font-family: pirateText;
-    src: url(.\assets\Fonts\textPirate.woff);
+    src: url(/pirate-speak/src/assets/Fonts/textPirate.woff);
   }
 .heading {
     align-items: center;

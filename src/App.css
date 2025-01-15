@@ -5,11 +5,11 @@
 }
 @font-face {
   font-family: pirateFont;
-  src: url(assets\Fonts\pirateFont.woff);
+  src: url(assets/Fonts/pirateFont.woff);
 }
 @font-face {
   font-family: pirateText;
-  src: url(assets\Fonts\textPirate.woff);
+  src: url(assets/Fonts/textPirate.woff);
 }
 *{
   font-family: pirateFont;
